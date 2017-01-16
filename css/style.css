@@ -1,0 +1,17 @@
+html,
+body {
+	font-size: 16px;
+	line-height: 140%;
+	font-family: Open Sans;
+}
+header {
+	padding: 2rem;
+}
+h1 {
+	font-size: 3rem;
+	color: #544765;
+}
+p {
+	font-size: 1rem;
+	color:#9f9f9f;
+}
